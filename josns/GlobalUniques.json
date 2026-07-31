@@ -1,0 +1,32 @@
+{
+    "name": "Global Uniques",
+    "uniques": [
+        "Requires establishing embassies to conduct advanced diplomacy",
+        "[-75]% growth [in all cities] <when between [-10] and [-1] [Happiness]>",
+        "Nullifies Growth [in all cities] <when below [-10] [Happiness]>",
+        "[-50]% [Production] [in all cities] <when below [-10] [Happiness]>",
+        "[-33]% Strength <for [All] units> <when below [-10] [Happiness]>",
+        "Cannot build [Settler] units <when below [-10] [Happiness]>",
+        "Rebel units may spawn <when below [-20] [Happiness]>",
+        "[-1] Sight <for [Embarked] units>",
+
+	"Instantly provides [1] [Hold] <with [16]% chance> <upon turn end>",
+	"Instantly provides [1] [Hood] <with [16]% chance> <upon turn end>",
+	"Instantly provides [1] [Hroduction] <with [16]% chance> <upon turn end>",
+	"Instantly provides [1] [Hience] <with [16]% chance> <upon turn end>",
+	"Instantly provides [1] [Hulture] <with [16]% chance> <upon turn end>",
+	"Instantly provides [1] [Haith] <with [16]% chance> <upon turn end>",
+	"Instantly provides [1] [HHappiness] <with [16]% chance> <upon turn end>",
+
+	"[+1 Food] [in capital] <for every [Hood]>",
+	"[+1 Gold] [in capital] <for every [Hold]>",
+	"[+1 Production] [in capital] <for every [Hroduction]>",
+	"[+1 Science] [in capital] <for every [Hience]>",
+	"[+1 Culture] [in capital] <for every [Hulture]>",
+	"[+1 Faith] [in capital] <for every [Haith]>",
+	"[+1 Happiness] [in capital] <for every [HHappiness]>",
+    ],
+    "civilopediaText": [
+        {"text": "Global uniques are ruleset-wide modifiers that apply to all civilizations."}
+    ]
+}
